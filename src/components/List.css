@@ -1,0 +1,25 @@
+.slick-dots li button:before{
+    color: white;
+    font-size: 25px;
+}
+.bigSlider{
+    display: block;
+}
+.smallSlider {
+    display: none;
+}
+.titleImg{
+    padding: 40px 0 24px 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+}
+@media (max-width: 845px) {
+    .bigSlider{
+        display: none;
+    }
+    .smallSlider {
+        display: block;
+    }
+}

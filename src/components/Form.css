@@ -1,0 +1,19 @@
+.formComments{
+    width: 100%;
+}
+.btn{
+    background: linear-gradient(98.3deg, #93E08C -1.93%, #78CEBF 97.03%);
+    border-radius: 3px;
+    width: 192px;
+    height: 42px;
+    left: 70px;
+    top: 1124px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 74px;
+}
+button{
+    background-color: black;
+}
